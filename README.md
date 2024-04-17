@@ -1,6 +1,6 @@
-## Graduate-Level NLP Notes
+## Natural Language Processing Notes and Methods
 
-Welcome to the repository of my handwritten notes from a graduate-level course on Natural Language Processing (NLP). These notes have been carefully curated over the duration of the course and cover a wide range of topics from the basics of text processing to advanced concepts in machine learning and language understanding.
+Welcome to the repository of my handwritten notes from a graduate-level course on Natural Language Processing. These notes have been carefully curated over the duration of the course and cover a wide range of topics from the basics of text processing to advanced concepts in machine learning and language understanding.
 
 ## Usage
 
