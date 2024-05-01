@@ -4,4 +4,4 @@ Welcome to the repository of my handwritten notes from a graduate-level course o
 
 ## Usage
 
-These notes are intended for educational purposes and to aid anyone interested in delving deeper into the field of Natural Language Processing. Whether you're a fellow student, an academic, or an industry professional, you'll find these notes useful for understanding and applying NLP techniques.
+These notes are intended for educational purposes and to aid anyone interested in delving deeper into the field of Natural Language Processing. Whether you're a student, an academic, or an industry professional, you'll find these notes useful for understanding and applying NLP techniques.
